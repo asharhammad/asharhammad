@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @asharhammad
-- 👀 I’m interested in ₚᵣₒGᵣₐₘₘᵢₙG, ₛₑₒ, Wₑb Dₑₛᵢgₙₑᵣ, Dₑᵥₑₗₒₚₑᵣ
-- 🌱 I’m currently learning ₚᵣₒGᵣₐₘₘᵢₙG
-- 💞️ I’m looking to collaborate on ₛₑₒ
-- 📫 How to reach me asharhammad@icloud.com
+# 👋 Welcome! I'm Ashar Hammad
 
-<!---
-asharhammad/asharhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A multi-disciplinary professional passionate about:
+- 💹 Financial Systems & Data-Driven Decisions
+- 💻 Technology, Automation & APIs
+- 🧠 Holistic Problem Solving
+- 📱 Social Media Impact & Digital Creativity
+
+## 🔧 Tech/Tools I Work With
+- Excel, Power BI, QuickBooks (Finance)
+- Python (automation, finance tools)
+- Git, GitHub, HTML/CSS (basic web & scripts)
+- Canva, Adobe Express (design & content)
+
+## 🔭 Current Projects
+- Building content automation scripts
+- Curating financial dashboards
+- Experimenting with digital branding
+
+## 🌐 Let's Connect
+📧 [Email](mailto:asharhammad@icloud.com) | [LinkedIn](https://linkedin.com/in/asharhammadnazir) | [Instagram](https://instagram.com/asharhammadnazir)
